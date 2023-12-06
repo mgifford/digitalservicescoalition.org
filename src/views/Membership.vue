@@ -9,6 +9,9 @@
             <div class="row justify-content-md-between">
                 <div class="col-md-6 py-md-5">
                     <h1 class="text-magenta my-md-5">Join the coalition</h1>
+
+                    <p>The DSC has proudly grown from 16 to nearly 50 member organizations. For our story and complete <a href="/story#OurCommunity">list of companies</a>.</p>
+                    
                     <div class="alert alert-success" role="alert">
                         <h2 class="h4"><b>Announcement</b></h2>
                         <b>We are now accepting applications for membership in the DSC from April 10th through May 7th, 2023.<br/><br/>Prior to filling out an application please review the 2023 DSC Membership Policy to ensure your company is eligible and to see the cost of membership: </b><b><a href="/pdfs/Membership-Policy-2023.pdf" target="_blank">DSC 2023 Membership Policy</a></b><br/><br/>
